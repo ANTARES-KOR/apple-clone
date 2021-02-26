@@ -1,0 +1,8 @@
+@import "reset.css";
+@import "main-style.css";
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+/* components */
+@import "./components/nav.css";
+/* screens */
+@import "./screens/homepage.css";
