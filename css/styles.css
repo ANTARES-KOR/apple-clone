@@ -4,5 +4,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 /* components */
 @import "./components/nav.css";
+@import "./components/unit-component.css";
 /* screens */
 @import "./screens/homepage.css";
