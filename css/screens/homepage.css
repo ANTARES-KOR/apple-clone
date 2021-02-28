@@ -104,7 +104,7 @@
 }
 
 #iphone-12-image {
-  background-image: url('img/iphone_12_cover_small.jpg');
+  background-image: url('./../img/iphone_12_cover_small.jpg');
 }
 #iphone-12-pro-image {
   background-image: url('img/iphone_12_pro_cover_small.jpg');
