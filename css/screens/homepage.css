@@ -107,47 +107,47 @@
   background-image: url('./../../img/iphone_12_cover_small.jpg');
 }
 #iphone-12-pro-image {
-  background-image: url('img/iphone_12_pro_cover_small.jpg');
+  background-image: url('./../../img/iphone_12_pro_cover_small.jpg');
 }
 #ipad-air-image {
-  background-image: url('img/ipad_air_cover_small.jpg');
+  background-image: url('./../../img/ipad_air_cover_small.jpg');
   background-position-y: 100%;
 }
 @media only screen and (min-width: 660px) and (max-width: 879px) {
   #iphone-12-image {
-    background-image: url('img/iphone_12_cover_medium.jpg');
+    background-image: url('./../../img/iphone_12_cover_medium.jpg');
   }
   #iphone-12-pro-image {
-    background-image: url('img/iphone_12_pro_cover_medium.jpg');
+    background-image: url('./../../img/iphone_12_pro_cover_medium.jpg');
   }
   #ipad-air-image {
-    background-image: url('img/ipad_air_cover_medium.jpg');
+    background-image: url('./../../img/ipad_air_cover_medium.jpg');
     background-size: auto 80%;
   }
 }
 @media only screen and (min-width: 880px) {
   #iphone-12-image {
-    background-image: url('img/iphone_12_cover_large.jpg');
+    background-image: url('./../../img/iphone_12_cover_large.jpg');
   }
   #iphone-12-pro-image {
-    background-image: url('img/iphone_12_pro_cover_large.jpg');
+    background-image: url('./../../img/iphone_12_pro_cover_large.jpg');
   }
   #ipad-air-image {
-    background-image: url('img/ipad_air_cover_large.jpg');
+    background-image: url('./../../img/ipad_air_cover_large.jpg');
     background-size: auto 78%;
   }
 }
 #racial-justice-image {
-  background-image: url('img/racial_justice_cover_small.jpg');
+  background-image: url('./../../img/racial_justice_cover_small.jpg');
 }
 #apple-watch-black-image {
-  background-image: url('img/apple_watch_black_cover_small.jpg');
+  background-image: url('./../../img/apple_watch_black_cover_small.jpg');
   background-size: auto 105%;
   background-position-y: 90%;
 }
 #apple-watch-heart-image {
-  background-image: url('img/apple_watch_heart_cover_small.jpg');
+  background-image: url('./../../img/apple_watch_heart_cover_small.jpg');
 }
 #apple-card-image {
-  background-image: url('img/apple_card_cover_small.jpg');
+  background-image: url('./../../img/apple_card_cover_small.jpg');
 }
