@@ -23,7 +23,8 @@ a {
 a.link {
   color: var(--apple-blue);
 }
-a.link:hover {
+a.link:hover,
+a.link:hover > * {
   text-decoration: underline;
 }
 
